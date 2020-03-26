@@ -1,2 +1,4 @@
 server:
-  port: 8096
+  port: 8196
+customize:
+  port: 9096
