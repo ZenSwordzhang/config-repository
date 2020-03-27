@@ -1,4 +1,2 @@
-server:
-  port: 8196
 customize:
   port: 9096
